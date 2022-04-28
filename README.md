@@ -15,3 +15,36 @@
 <hr><br>
 phpmyadmin script is for connect you mysql server with your localhost . This script made for specially android User . No more suffering for connection problem . Connect with PhpMyAdmin with a single click. Stay with Noob-Community.
 
+'''
+
+$ apt update && upgrade -y
+
+$ pkg install git -y
+
+$ git clone https://github.com/Noob-Hacker71/phpMyAdmin
+
+$ cd phpMyAdmin
+
+$ bash phpmydmin.sh
+
+'''
+
+[~] Enter Your MySQL password for you Database.
+
+##For start MySQL Seever 
+
+/ Open a new session and run this command 
+'''
+
+$ start_php
+
+'''
+
+/ Open a new session and run this command 
+'''
+
+$ mysqld_safe
+
+'''
+
+Now Copy the localhost / 127.0.0.1:2116 link to get connected with your mysql database 
